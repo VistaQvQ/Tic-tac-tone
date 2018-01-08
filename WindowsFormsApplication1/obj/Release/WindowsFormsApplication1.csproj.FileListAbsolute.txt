@@ -1,0 +1,13 @@
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\井字棋.exe.config
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\井字棋.exe
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\井字棋.pdb
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\byn\井字棋.resources.dll
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Resource1.resources
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.byn.resources
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\byn\井字棋.resources.dll
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\井字棋.exe
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\井字棋.pdb

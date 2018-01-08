@@ -1,0 +1,46 @@
+C:\Users\MrKooper\Desktop\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\MrKooper\Desktop\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\MrKooper\Desktop\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\MrKooper\Desktop\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MrKooper\Desktop\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\MrKooper\Desktop\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\MrKooper\Desktop\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\MrKooper\Desktop\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\MrKooper\Desktop\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\井字棋.exe.config
+C:\Users\MrKooper\Desktop\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\井字棋.exe
+C:\Users\MrKooper\Desktop\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\井字棋.pdb
+C:\Users\MrKooper\Desktop\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\MrKooper\Desktop\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\MrKooper\Desktop\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MrKooper\Desktop\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\MrKooper\Desktop\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\井字棋.exe
+C:\Users\MrKooper\Desktop\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\井字棋.pdb
+C:\Users\MrKooper\Desktop\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\byn\井字棋.resources.dll
+C:\Users\MrKooper\Desktop\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.byn.resources
+C:\Users\MrKooper\Desktop\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\byn\井字棋.resources.dll
+C:\Users\MrKooper\Desktop\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Resource1.resources
+C:\Users\MrKooper\Desktop\井字棋\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\井字棋.exe.config
+C:\Users\MrKooper\Desktop\井字棋\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\井字棋.exe
+C:\Users\MrKooper\Desktop\井字棋\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\井字棋.pdb
+C:\Users\MrKooper\Desktop\井字棋\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\井字棋.exe
+C:\Users\MrKooper\Desktop\井字棋\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\井字棋.pdb
+C:\Users\MrKooper\Desktop\井字棋\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\byn\井字棋.resources.dll
+C:\Users\MrKooper\Desktop\井字棋\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\MrKooper\Desktop\井字棋\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MrKooper\Desktop\井字棋\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Resource1.resources
+C:\Users\MrKooper\Desktop\井字棋\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.byn.resources
+C:\Users\MrKooper\Desktop\井字棋\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\MrKooper\Desktop\井字棋\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\byn\井字棋.resources.dll
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\井字棋.exe.config
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\井字棋.exe
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\井字棋.pdb
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\井字棋.exe
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\井字棋.pdb
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\byn\井字棋.resources.dll
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Resource1.resources
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.byn.resources
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\C#\井字棋\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\byn\井字棋.resources.dll
